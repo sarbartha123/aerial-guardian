@@ -167,6 +167,23 @@ python pipeline.py --input <path_to_dataset> --output outputs/result.mp4
 ├── outputs/
 └── README.md
 
+
+
+
+## Model 
+
+The  model weights are hosted externally due to GitHub file size limitations.
+
+Download link:
+https://drive.google.com/file/d/1hy1_pDYB-9779ugDeNAwtHB91_F75kva/view?usp=sharing
+
+After downloading, place the file in the root directory:
+
+Drone-Project/
+├── yolo26l.pt
+
+Then run the pipeline normally.
+
 ---
 
 ## Author
